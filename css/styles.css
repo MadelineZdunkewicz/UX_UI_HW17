@@ -1,5 +1,6 @@
 body {
     margin: 0% auto;
+    background-color: #C5D7D1;
 }
 
 .inline-block {
@@ -64,6 +65,18 @@ button {
     font-size: 16px;
 }
 p {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    background-color: white;
+    padding: 3%;
+}
+
+.container {
     font-family: sans-serif;
     font-size: 16px;
 }
